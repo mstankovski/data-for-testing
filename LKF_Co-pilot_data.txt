@@ -1,0 +1,1022 @@
+[
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Cycling & Walking",
+    "Year": 2019,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Cycling & Walking",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Car",
+    "Year": 2019,
+    "Value SEK": 122000,
+    "Value EUR": 10854.09253,
+    "Label": "LKF - T - Car",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Light Rail",
+    "Year": 2019,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Light Rail",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Grön obligation",
+    "Year": 2019,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Grön obligation",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Residential",
+    "Year": 2019,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - BE - Residential",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Commercial",
+    "Year": 2019,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - BE - Commercial",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Public Buildings",
+    "Year": 2019,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - BE - Public Buildings",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Grön obligation",
+    "Year": 2019,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - BE - Grön obligation",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Solar Thermal / Solar PV",
+    "Year": 2019,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Solar Thermal / Solar PV",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Oil",
+    "Year": 2019,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Oil",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Natural Gas",
+    "Year": 2019,
+    "Value SEK": 1056000,
+    "Value EUR": 93950.17794,
+    "Label": "LKF - ES - Natural Gas",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Coal/Lignite)",
+    "Year": 2019,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Coal/Lignite)",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Wind",
+    "Year": 2019,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Wind",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Hydro",
+    "Year": 2019,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Hydro",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Grön obligation",
+    "Year": 2019,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Grön obligation",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Kategori": "Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Year": 2019,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Color": "#F7C1BD"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Waste and Circular Economy (WCE)",
+    "Kategori": "Waste and Circular Economy (WCE)",
+    "Year": 2019,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - Waste and Circular Economy (WCE)",
+    "Color": "#CCE1E0"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Cycling & Walking",
+    "Year": 2020,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Cycling & Walking",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Car",
+    "Year": 2020,
+    "Value SEK": 91000,
+    "Value EUR": 8096.085409,
+    "Label": "LKF - T - Car",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Light Rail",
+    "Year": 2020,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Light Rail",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Grön obligation",
+    "Year": 2020,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Grön obligation",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Residential",
+    "Year": 2020,
+    "Value SEK": 800000,
+    "Value EUR": 71174.37722,
+    "Label": "LKF - BE - Residential",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Commercial",
+    "Year": 2020,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - BE - Commercial",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Public Buildings",
+    "Year": 2020,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - BE - Public Buildings",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Grön obligation",
+    "Year": 2020,
+    "Value SEK": 288000000,
+    "Value EUR": 25622775.8,
+    "Label": "LKF - BE - Grön obligation",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Solar Thermal / Solar PV",
+    "Year": 2020,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Solar Thermal / Solar PV",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Oil",
+    "Year": 2020,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Oil",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Natural Gas",
+    "Year": 2020,
+    "Value SEK": 3125000,
+    "Value EUR": 278024.911,
+    "Label": "LKF - ES - Natural Gas",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Coal/Lignite)",
+    "Year": 2020,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Coal/Lignite)",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Wind",
+    "Year": 2020,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Wind",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Hydro",
+    "Year": 2020,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Hydro",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Grön obligation",
+    "Year": 2020,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Grön obligation",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Kategori": "Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Year": 2020,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Color": "#F7C1BD"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Waste and Circular Economy (WCE)",
+    "Kategori": "Waste and Circular Economy (WCE)",
+    "Year": 2020,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - Waste and Circular Economy (WCE)",
+    "Color": "#CCE1E0"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Cycling & Walking",
+    "Year": 2021,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Cycling & Walking",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Car",
+    "Year": 2021,
+    "Value SEK": 182000,
+    "Value EUR": 16192.17082,
+    "Label": "LKF - T - Car",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Light Rail",
+    "Year": 2021,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Light Rail",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Grön obligation",
+    "Year": 2021,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Grön obligation",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Residential",
+    "Year": 2021,
+    "Value SEK": 1600000,
+    "Value EUR": 142348.7544,
+    "Label": "LKF - BE - Residential",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Commercial",
+    "Year": 2021,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - BE - Commercial",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Public Buildings",
+    "Year": 2021,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - BE - Public Buildings",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Grön obligation",
+    "Year": 2021,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - BE - Grön obligation",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Solar Thermal / Solar PV",
+    "Year": 2021,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Solar Thermal / Solar PV",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Oil",
+    "Year": 2021,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Oil",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Natural Gas",
+    "Year": 2021,
+    "Value SEK": 3600000,
+    "Value EUR": 320284.6975,
+    "Label": "LKF - ES - Natural Gas",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Coal/Lignite)",
+    "Year": 2021,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Coal/Lignite)",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Wind",
+    "Year": 2021,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Wind",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Hydro",
+    "Year": 2021,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Hydro",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Grön obligation",
+    "Year": 2021,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Grön obligation",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Kategori": "Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Year": 2021,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Color": "#F7C1BD"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Waste and Circular Economy (WCE)",
+    "Kategori": "Waste and Circular Economy (WCE)",
+    "Year": 2021,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - Waste and Circular Economy (WCE)",
+    "Color": "#CCE1E0"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Cycling & Walking",
+    "Year": 2022,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Cycling & Walking",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Car",
+    "Year": 2022,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Car",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Light Rail",
+    "Year": 2022,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Light Rail",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Grön obligation",
+    "Year": 2022,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Grön obligation",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Residential",
+    "Year": 2022,
+    "Value SEK": 800000,
+    "Value EUR": 71174.37722,
+    "Label": "LKF - BE - Residential",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Commercial",
+    "Year": 2022,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - BE - Commercial",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Public Buildings",
+    "Year": 2022,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - BE - Public Buildings",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Grön obligation",
+    "Year": 2022,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - BE - Grön obligation",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Solar Thermal / Solar PV",
+    "Year": 2022,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Solar Thermal / Solar PV",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Oil",
+    "Year": 2022,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Oil",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Natural Gas",
+    "Year": 2022,
+    "Value SEK": 3713000,
+    "Value EUR": 330338.0783,
+    "Label": "LKF - ES - Natural Gas",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Coal/Lignite)",
+    "Year": 2022,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Coal/Lignite)",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Wind",
+    "Year": 2022,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Wind",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Hydro",
+    "Year": 2022,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Hydro",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Grön obligation",
+    "Year": 2022,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Grön obligation",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Kategori": "Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Year": 2022,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Color": "#F7C1BD"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Waste and Circular Economy (WCE)",
+    "Kategori": "Waste and Circular Economy (WCE)",
+    "Year": 2022,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - Waste and Circular Economy (WCE)",
+    "Color": "#CCE1E0"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Cycling & Walking",
+    "Year": 2023,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Cycling & Walking",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Car",
+    "Year": 2023,
+    "Value SEK": 5913000,
+    "Value EUR": 526067.6157,
+    "Label": "LKF - T - Car",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Light Rail",
+    "Year": 2023,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Light Rail",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Grön obligation",
+    "Year": 2023,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Grön obligation",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Residential",
+    "Year": 2023,
+    "Value SEK": 47200000,
+    "Value EUR": 4199288.256,
+    "Label": "LKF - BE - Residential",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Commercial",
+    "Year": 2023,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - BE - Commercial",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Public Buildings",
+    "Year": 2023,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - BE - Public Buildings",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Grön obligation",
+    "Year": 2023,
+    "Value SEK": 403000000,
+    "Value EUR": 35854092.53,
+    "Label": "LKF - BE - Grön obligation",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Solar Thermal / Solar PV",
+    "Year": 2023,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Solar Thermal / Solar PV",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Oil",
+    "Year": 2023,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Oil",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Natural Gas",
+    "Year": 2023,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Natural Gas",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Coal/Lignite)",
+    "Year": 2023,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Coal/Lignite)",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Wind",
+    "Year": 2023,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Wind",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Hydro",
+    "Year": 2023,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Hydro",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Grön obligation",
+    "Year": 2023,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Grön obligation",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Kategori": "Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Year": 2023,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Color": "#F7C1BD"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Waste and Circular Economy (WCE)",
+    "Kategori": "Waste and Circular Economy (WCE)",
+    "Year": 2023,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - Waste and Circular Economy (WCE)",
+    "Color": "#CCE1E0"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Cycling & Walking",
+    "Year": 2024,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Cycling & Walking",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Car",
+    "Year": 2024,
+    "Value SEK": 2577000,
+    "Value EUR": 229270.4626,
+    "Label": "LKF - T - Car",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Light Rail",
+    "Year": 2024,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Light Rail",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Transport (T)",
+    "Kategori": "T - Grön obligation",
+    "Year": 2024,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - T - Grön obligation",
+    "Color": "#EB683E"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Residential",
+    "Year": 2024,
+    "Value SEK": 80450000,
+    "Value EUR": 7157473.31,
+    "Label": "LKF - BE - Residential",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Commercial",
+    "Year": 2024,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - BE - Commercial",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Public Buildings",
+    "Year": 2024,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - BE - Public Buildings",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Fastigheter (BE)",
+    "Kategori": "BE - Grön obligation",
+    "Year": 2024,
+    "Value SEK": 623000000,
+    "Value EUR": 55427046.26,
+    "Label": "LKF - BE - Grön obligation",
+    "Color": "#FFF1BE"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Solar Thermal / Solar PV",
+    "Year": 2024,
+    "Value SEK": 10180000,
+    "Value EUR": 905693.9502,
+    "Label": "LKF - ES - Solar Thermal / Solar PV",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Oil",
+    "Year": 2024,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Oil",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Natural Gas",
+    "Year": 2024,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Natural Gas",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Coal/Lignite)",
+    "Year": 2024,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Coal/Lignite)",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Wind",
+    "Year": 2024,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Wind",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Hydro",
+    "Year": 2024,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Hydro",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Energi (ES)",
+    "Kategori": "ES - Grön obligation",
+    "Year": 2024,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - ES - Grön obligation",
+    "Color": "#5B124D"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Kategori": "Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Year": 2024,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - Grön infrastruktur och naturbaserade lösningar (GN)",
+    "Color": "#F7C1BD"
+  },
+  {
+    "Grupp": "LKF",
+    "Klass": "Waste and Circular Economy (WCE)",
+    "Kategori": "Waste and Circular Economy (WCE)",
+    "Year": 2024,
+    "Value SEK": 0,
+    "Value EUR": 0,
+    "Label": "LKF - Waste and Circular Economy (WCE)",
+    "Color": "#CCE1E0"
+  }
+]
